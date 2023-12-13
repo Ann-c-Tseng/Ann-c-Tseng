@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## My name is Chia-en Tseng, welcome to my Github!
-Here are some of the coding projects and tid-bits I work on beyond my full-time role as a product software engineer. Thanks for stopping by and paying my page a visit!
+Here are some of the coding projects and tid-bits I work on, beyond my full-time role as a product software engineer. Thanks for stopping by and paying my page a visit!
 
 <!--
 **Ann-c-Tseng/Ann-c-Tseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
