@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My name is Chia-en "Ann" Tseng, welcome to my Github!
+## My name is Chia-en Tseng, welcome to my Github!
 Here are some of the coding projects and tid-bits I work on beyond my full-time role as a product software engineer. Thanks for stopping by and paying my page a visit!
 
 <!--
